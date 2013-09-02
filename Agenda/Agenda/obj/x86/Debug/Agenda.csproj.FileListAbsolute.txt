@@ -1,0 +1,8 @@
+C:\Users\Jose Ulloa Vasquez\Dropbox\Clase de itla\Programa en C#\Agenda\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\Jose Ulloa Vasquez\Dropbox\Clase de itla\Programa en C#\Agenda\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\Jose Ulloa Vasquez\Dropbox\Clase de itla\Programa en C#\Agenda\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\Jose Ulloa Vasquez\Dropbox\Clase de itla\Programa en C#\Agenda\Agenda\Agenda\obj\x86\Debug\Agenda.VentanaAgenda.resources
+C:\Users\Jose Ulloa Vasquez\Dropbox\Clase de itla\Programa en C#\Agenda\Agenda\Agenda\obj\x86\Debug\Agenda.Properties.Resources.resources
+C:\Users\Jose Ulloa Vasquez\Dropbox\Clase de itla\Programa en C#\Agenda\Agenda\Agenda\obj\x86\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Users\Jose Ulloa Vasquez\Dropbox\Clase de itla\Programa en C#\Agenda\Agenda\Agenda\obj\x86\Debug\Agenda.exe
+C:\Users\Jose Ulloa Vasquez\Dropbox\Clase de itla\Programa en C#\Agenda\Agenda\Agenda\obj\x86\Debug\Agenda.pdb
